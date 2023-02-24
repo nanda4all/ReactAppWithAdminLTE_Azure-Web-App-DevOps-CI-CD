@@ -10,7 +10,7 @@ export default class Dashboard extends Component {
       <div className="container-fluid">
         <div className="row mb-2">
           <div className="col-sm-6">
-            <h1 className="m-0 text-dark">Dashboard Changes 3rd times</h1>
+            <h1 className="m-0 text-dark">My Admin Dashboard </h1>
           </div>{/* /.col */}
           <div className="col-sm-6">
             <ol className="breadcrumb float-sm-right">
